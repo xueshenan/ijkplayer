@@ -17,7 +17,6 @@
         <item>Auto Select</item>
         <item>AndroidMediaPlayer</item>
         <item>IjkMediaPlayer</item>
-        <item>IjkExoMediaPlayer</item>
     </string-array>
     <string-array name="pref_entry_values_player">
         <item>0</item>
@@ -29,7 +28,6 @@
         <item>Auto Select</item>
         <item>AndroidMediaPlayer</item>
         <item>IjkMediaPlayer</item>
-        <item>IjkExoMediaPlayer</item>
     </string-array>
 
     <!-- -->
